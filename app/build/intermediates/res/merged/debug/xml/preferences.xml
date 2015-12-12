@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory>
+        <EditTextPreference android:key="language" android:summary="languager" android:title="lang"  />
+        <EditTextPreference android:key="author" android:summary="authorr" android:title="autho"  />
+        <EditTextPreference android:key="book" android:summary="bookr" android:title="boo"  />
+        <EditTextPreference android:key="type" android:summary="typer" android:title="typ"  />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
+<!-- From: file:/C:/Users/Tomasz/AndroidStudioProjects/Book_quotes/app/src/main/res/xml/preferences.xml -->
